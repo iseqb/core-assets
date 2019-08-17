@@ -13,12 +13,12 @@
    id="Ebene_1"
    x="0px"
    y="0px"
-   viewBox="0 0 64.800949 17.458221"
+   viewBox="0 0 61.800952 15.958221"
    xml:space="preserve"
    sodipodi:docname="logo.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="64.800949"
-   height="17.458221"><metadata
+   width="247.20381"
+   height="63.832886"><metadata
    id="metadata4606"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title><cc:license
@@ -49,9 +49,9 @@
    inkscape:window-height="755"
    id="namedview4602"
    showgrid="false"
-   inkscape:zoom="5.6568542"
-   inkscape:cx="28.117395"
-   inkscape:cy="9.1654115"
+   inkscape:zoom="2"
+   inkscape:cx="101.1174"
+   inkscape:cy="42.040075"
    inkscape:window-x="0"
    inkscape:window-y="1"
    inkscape:window-maximized="1"
@@ -69,19 +69,20 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:21.15893745px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52897346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="0.28496894"
-   y="15.216161"
+   x="-1.215031"
+   y="14.466161"
    id="text4610"><tspan
      sodipodi:role="line"
      id="tspan4608"
-     x="0.28496894"
-     y="15.216161"
+     x="-1.215031"
+     y="14.466161"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;stroke-width:0.52897346px">iSE B</tspan></text>
+
 
 
 <g
    id="g4638"
-   transform="matrix(0.90115133,-0.02221541,0.02213727,0.90433224,-2.7485018,-14.270552)"><path
+   transform="matrix(0.90115133,-0.02221541,0.02213727,0.90433224,-4.2485017,-15.020552)"><path
      style="fill:#1d1d1b;stroke-width:0.23521309"
      inkscape:connector-curvature="0"
      id="path4589"
@@ -93,7 +94,7 @@
      d="m 56.723369,27.098053 c 0.04385,-2.069411 -1.613426,-3.798442 -3.682837,-3.842293 -2.06941,-0.04385 -3.798442,1.613426 -3.842293,3.682837 -0.01146,0.540868 0.09516,1.060713 0.296835,1.535518 l -0.427275,0.179159 c -0.223699,-0.545852 -0.352338,-1.136743 -0.33988,-1.724643 0.04933,-2.328087 1.994492,-4.192523 4.322579,-4.143191 2.328087,0.04933 4.192523,1.994492 4.143191,4.322579 -0.04933,2.328087 -1.994492,4.192523 -4.322579,4.143191 l 0.01,-0.47032 c 2.06941,0.04385 3.798442,-1.613426 3.842293,-3.682837 z"
      class="st0" /></g><g
    id="g4597"
-   transform="matrix(0.23053925,-0.00490234,0.00488509,0.23135302,30.316795,3.5822159)">
+   transform="matrix(0.23053925,-0.00490234,0.00488509,0.23135302,28.816795,2.8322162)">
 		<path
    style="fill:#36bda1"
    inkscape:connector-curvature="0"
